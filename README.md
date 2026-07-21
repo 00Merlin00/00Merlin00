@@ -64,6 +64,12 @@ I'm a Computer Science student passionate about building software that solves re
 
 ---
 
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/00Merlin00/00Merlin00/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</p>
+
 ## 🎯 Currently Working On
 
 - 🖥 Digital Portfolio
