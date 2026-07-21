@@ -33,15 +33,15 @@ I'm a Computer Science student passionate about building software that solves re
 <p align="center">
 
 <a href="https://github.com/00Merlin00/docsflow">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=00Merlin00&repo=docsflow&theme=github_dark&hide_border=true" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=00Merlin00&repo=docsflow&theme=github_dark&hide_border=true&v=2" />
 </a>
 
 <a href="https://github.com/00Merlin00/wifi-Analyzer">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=00Merlin00&repo=wifi-Analyzer&theme=github_dark&hide_border=true" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=00Merlin00&repo=wifi-Analyzer&theme=github_dark&hide_border=true&v=2" />
 </a>
 
 <a href="https://github.com/00Merlin00/umaii-restaurant">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=00Merlin00&repo=umaii-restaurant&theme=github_dark&hide_border=true" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=00Merlin00&repo=umaii-restaurant&theme=github_dark&hide_border=true&v=2" />
 </a>
 
 </p>
