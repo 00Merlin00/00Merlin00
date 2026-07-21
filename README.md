@@ -33,15 +33,15 @@ I'm a Computer Science student passionate about building software that solves re
 <p align="center">
 
 <a href="https://github.com/00Merlin00/docsflow">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=00Merlin00&repo=docsflow&theme=github_dark&hide_border=true"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=00Merlin00&repo=docsflow&theme=github_dark&hide_border=true" />
 </a>
 
 <a href="https://github.com/00Merlin00/wifi-Analyzer">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=00Merlin00&repo=wifi-Analyzer&theme=github_dark&hide_border=true"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=00Merlin00&repo=wifi-Analyzer&theme=github_dark&hide_border=true" />
 </a>
 
 <a href="https://github.com/00Merlin00/umaii-restaurant">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=00Merlin00&repo=umaii-restaurant&theme=github_dark&hide_border=true"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=00Merlin00&repo=umaii-restaurant&theme=github_dark&hide_border=true" />
 </a>
 
 </p>
@@ -50,9 +50,9 @@ I'm a Computer Science student passionate about building software that solves re
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=00Merlin00&show_icons=true&theme=github_dark&hide_border=true"/>
+<img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=00Merlin00&show_icons=true&theme=github_dark&hide_border=true"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=00Merlin00&layout=compact&theme=github_dark&hide_border=true"/>
+<img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=00Merlin00&layout=compact&theme=github_dark&hide_border=true"/>
 
 </p>
 
@@ -66,10 +66,10 @@ I'm a Computer Science student passionate about building software that solves re
 
 ## 🎯 Currently Working On
 
-- 🖥 MohitOS
+- 🖥 Digital Portfolio
 - 📄 DocsFlow
-- 🔒 Cybersecurity Labs
-- 🤖 AI-powered Applications
+- 🔒 PortSwigger Web Security Academy
+- 🇯🇵 Preparing for JLPT N1
 
 ---
 
