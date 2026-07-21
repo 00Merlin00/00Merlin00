@@ -70,6 +70,11 @@ I'm a Computer Science student passionate about building software that solves re
   <img src="https://raw.githubusercontent.com/00Merlin00/00Merlin00/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </p>
 
+## 📈 Activity Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=00Merlin00&theme=github-dark&hide_border=true&area=true" />
+</p>
 ## 🎯 Currently Working On
 
 - 🖥 Digital Portfolio
