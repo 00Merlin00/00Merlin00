@@ -30,14 +30,21 @@ I'm a Computer Science student passionate about building software that solves re
 
 ## 🚀 Featured Projects
 
-| Project | Description |
-|---------|-------------|
-| 🖥 **MohitOS** | Interactive Windows-inspired portfolio experience |
-| 📄 **DocsFlow** | AI-powered OCR document management system |
-| 📶 **WiFi Analyzer** | WiFi reconnaissance and analysis dashboard |
-| 🍣 **Umaii Restaurant** | Responsive Japanese restaurant website |
+<p align="center">
 
----
+<a href="https://github.com/00Merlin00/docsflow">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=00Merlin00&repo=docsflow&theme=github_dark&hide_border=true"/>
+</a>
+
+<a href="https://github.com/00Merlin00/wifi-Analyzer">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=00Merlin00&repo=wifi-Analyzer&theme=github_dark&hide_border=true"/>
+</a>
+
+<a href="https://github.com/00Merlin00/umaii-restaurant">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=00Merlin00&repo=umaii-restaurant&theme=github_dark&hide_border=true"/>
+</a>
+
+</p>
 
 ## 📊 GitHub Statistics
 
